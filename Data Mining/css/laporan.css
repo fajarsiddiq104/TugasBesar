@@ -1,0 +1,71 @@
+body
+{
+  margin: 0px;
+  padding: 0px;
+  background-color: #eaeaea;
+}
+.container
+{
+  width: 1000px;
+  margin: 10px auto;
+}
+.utama1
+{
+  height: 40px;
+  font-size: 24px;
+  color: #F39422;
+  padding-top: 10px;
+    position:relative;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.utama1 marquee
+{
+  font-size: 24px;
+  color: #F39422;
+  padding-top: 10px;
+}
+.utama2 {
+  margin-top: 5px;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.utama2 a {
+  float: left;
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin: 0px auto;
+  padding-right: 80px;
+  font-weight: bold;
+}
+
+.utama2 a:hover {
+  background-color: #ddd;
+  color: grey;
+  transition: .7s;
+}
+
+.cetak {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.cetak a {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+  color: #fff;
+}
+
+.cetak a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: black;
+  transition: .7s;
+}

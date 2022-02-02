@@ -1,0 +1,23 @@
+.utama3
+{
+	line-height: 200px;
+	margin-top: -7px;
+	font-size: 24px;
+	background-image: url(bg.png);
+	width: 1000px;
+	height: 200px; 
+	color:#fff; 
+	text-shadow: 0 0 1px salmon, 
+			 0 0 3px salmon, 
+			 0 0 5px salmon, 
+			 0 0 7px salmon, 
+			 0 0 9px salmon
+}
+.utama3 p
+{
+	margin-left: 20px;
+}
+.utama4 .utama41 p
+{
+	margin-top: 20px;
+}
